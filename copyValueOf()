@@ -6,11 +6,8 @@ Program:
 
 public class Main {
     public static void main(String[] args) {
-
         char[] ch = {'J', 'A', 'V', 'A'};
-
         String s = String.copyValueOf(ch);
-
         System.out.println(s);
     }
 }
